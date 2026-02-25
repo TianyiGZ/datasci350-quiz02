@@ -16,9 +16,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "datasci350-quiz02",
+    "title": "Gapminder Analysis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "The Gapminder dataset contains country-level data on life expectancy, GDP per capita, and population over time.\n\n\n\nLife Expectancy and GDP per Capita\nLife Expectancy and Population\nCountry Analysis"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Gapminder Analysis",
+    "section": "",
+    "text": "The Gapminder dataset contains country-level data on life expectancy, GDP per capita, and population over time.\n\n\n\nLife Expectancy and GDP per Capita\nLife Expectancy and Population\nCountry Analysis"
   },
   {
     "objectID": "country.html",

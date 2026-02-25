@@ -1,7 +1,13 @@
 ---
-title: "datasci350-quiz02"
+title: "Gapminder Analysis"
 ---
 
-This is a Quarto website.
+## Overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Gapminder dataset contains country-level data on life expectancy, GDP per capita, and population over time.
+
+### Explore the analyses:
+
+- [Life Expectancy and GDP per Capita](life-gdp.html)
+- [Life Expectancy and Population](life-population.html)
+- [Country Analysis](country.html)
